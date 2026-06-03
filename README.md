@@ -6,6 +6,14 @@ It deploys an Nginx web server using Kubernetes Deployments and exposes it using
 
 ---
 
+## Screenshots
+
+### Application Running in Browser
+![Nginx App](nginx-browser.png)
+![Nginx App](nginx2-browser.png)
+### Pods & Service Running
+![Pods & Service](pods&service-running.png)
+
 ## Architecture
 
 - Kubernetes Cluster (Minikube)
