@@ -9,10 +9,10 @@ It deploys an Nginx web server using Kubernetes Deployments and exposes it using
 ## Screenshots
 
 ### Application Running in Browser
-![Nginx App](nginx-browser.png)
-![Nginx App](nginx2-browser.png)
+![Nginx App](images/nginx-browser.png.png)
+
 ### Pods & Service Running
-![Pods & Service](pods&service-running.png)
+![Pods & Service](images/pods&service-running.png.png)
 
 ## Architecture
 
